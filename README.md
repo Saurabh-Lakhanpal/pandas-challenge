@@ -5,8 +5,8 @@ Helping a school board and mayor make strategic decisions regarding future schoo
 The first task, is to analyze the district-wide standardized test results. Given are every student's math and reading scores, as well as various information on the schools they attend. The task is to aggregate the data to showcase obvious trends in school performance.
 
 ### Solution 
-- PyCitySchools - [Jupyter notebook]() | [output]()</br>
-- Raw Data - [File]()
+- PyCitySchools - [Jupyter notebook](https://github.com/Saurabh-Lakhanpal/pandas-challenge/blob/main/PyCitySchools/PyCitySchools_solution.ipynb) | [output]()</br>
+- Raw Data - [schools_complete](https://github.com/Saurabh-Lakhanpal/pandas-challenge/blob/main/PyCitySchools/Resources/schools_complete.csv), [students_complete](https://github.com/Saurabh-Lakhanpal/pandas-challenge/blob/main/PyCitySchools/Resources/students_complete.csv)
 
 ## District Summary
 
