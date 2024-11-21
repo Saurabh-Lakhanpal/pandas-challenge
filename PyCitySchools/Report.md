@@ -14,7 +14,8 @@ The analysis of the provided data reveals significant insights into the performa
 
 - Passing Rates:
 
-        Charter schools have a significantly higher percentage of students passing math (93.62%) and reading (96.59%) compared to District schools (66.55% and 80.80%, respectively).
+        Charter schools have a significantly higher percentage of students passing math (93.62%) and reading\
+          (96.59%) compared to District schools (66.55% and 80.80%, respectively).
 
         The overall passing rate for Charter schools is 90.43%, while District schools have a passing rate of 53.67%.
 
